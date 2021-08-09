@@ -1,0 +1,30 @@
+{
+  "name": "equrbanov",
+  "version": "1.0.0",
+  "description": "Denemek icin yazilmistir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "alvin": "echo 'My name is 3KED' ",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Elvin Qurbanov",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.5",
+    "nodemailer": "^6.6.3",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/equrbanov7/equrbanov.git"
+  }
+}
+
